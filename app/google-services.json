@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "845532703745",
+    "firebase_url": "https://bmicalc-ff8bb.firebaseio.com",
+    "project_id": "bmicalc-ff8bb",
+    "storage_bucket": "bmicalc-ff8bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845532703745:android:40762999f21af944",
+        "android_client_info": {
+          "package_name": "com.example.pranali.bmicalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845532703745-h39e2fk712mqfa32o6n5g1kqfiqccv99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pranali.bmicalc",
+            "certificate_hash": "9c62b564a944969e9b3ff69d9bc9a370cc9489d1"
+          }
+        },
+        {
+          "client_id": "845532703745-cu0cumvp2629v5isqrcn4i9glpfdpaj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU7qaBVfRiYr6-_JQixWVK_tXYyuEQkQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845532703745-cu0cumvp2629v5isqrcn4i9glpfdpaj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
